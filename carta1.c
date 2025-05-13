@@ -29,5 +29,4 @@ int main(){
     //imprimindo as variaveis//
 
     return 0
-
 }
