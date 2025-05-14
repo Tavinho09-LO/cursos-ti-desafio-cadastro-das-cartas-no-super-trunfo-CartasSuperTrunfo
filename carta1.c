@@ -28,5 +28,5 @@ int main(){
     printf("Pontos turísticos:%d\n",pontosturísticos);
     //imprimindo as variaveis//
 
-    return 0
+    return 0;
 }
